@@ -1,6 +1,6 @@
 # Fairness and Robustness of Contrasting Explanations
 
-This repository contains the implementation of the methods proposed in the paper [Fairness and Robustness of Contrasting Explanations](paper.pdf) by André Artelt and Barbara Hammer.
+This repository contains the implementation of the methods proposed in the paper [Evaluating Robustness of Counterfactual Explanations](paper.pdf) by André Artelt, Valerie Vaquet, Riza Velioglu, Fabian Hinder, Johannes Brinkrolf, Malte Schilling and Barbara Hammer.
 
 The experiments as described in the paper are implemented in the folder [Code](Code/).
 
